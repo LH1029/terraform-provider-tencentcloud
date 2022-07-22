@@ -609,7 +609,6 @@ github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.412/go.mod 
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.413/go.mod h1:7sCQWVkxcsR38nffDW057DRGk8mUjK1Ing/EFOK8s8Y=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.414/go.mod h1:7sCQWVkxcsR38nffDW057DRGk8mUjK1Ing/EFOK8s8Y=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.425/go.mod h1:7sCQWVkxcsR38nffDW057DRGk8mUjK1Ing/EFOK8s8Y=
-github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.438 h1:tz7YTepMgtehsPI7nTXEZ6W9eOaXR0rvLMtqwHDzhZ8=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.438/go.mod h1:7sCQWVkxcsR38nffDW057DRGk8mUjK1Ing/EFOK8s8Y=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.443/go.mod h1:7sCQWVkxcsR38nffDW057DRGk8mUjK1Ing/EFOK8s8Y=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.445 h1:ExpnqUQjuvmanxIARSyUyqCYIdL5wW+IL+e0FADmjdk=
@@ -641,8 +640,6 @@ github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/lighthouse v1.0.413 h1:
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/lighthouse v1.0.413/go.mod h1:nG/8Iz/MtV4zBxz9ToLJ90O4ocdME9WUKwims/bitr4=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/mongodb v1.0.199 h1:2jsGprrewRIP3smcTsY5GpEuOuJ+qyV/BN3Py0Ivf1o=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/mongodb v1.0.199/go.mod h1:f5GhbJyuYQBzRaDHGe3I4U9utb0Pmx2NlI+XcqSQRp0=
-github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/monitor v1.0.438 h1:zf+NkKb0fgurjgCdpApnLjip7bxU7fxejI8HW5pTHl8=
-github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/monitor v1.0.438/go.mod h1:VgHc7QaLfYqdurDBb+HwXaDRuFbpsnZIKkjSPl748JA=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/monitor v1.0.443 h1:5uPNOJb4uC9oZuXzSv0GtQOGGBEWA9JA1Yhoyh+9mfk=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/monitor v1.0.443/go.mod h1:QGyCdlNx2tu94GMlJDQAwz5eVFa2Gfq3JD0WZ65QqGE=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/postgres v1.0.391 h1:1yZh5MrlFqawVGhLdd38hi5HoaKc4LgB+8cEgLT2Qo4=
